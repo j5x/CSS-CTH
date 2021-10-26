@@ -5,7 +5,7 @@ body{
     width: 400px;
     height: 200px;
 }    
-div{
+.cheat{
         background-color: cyan;
         color:darkorchid;
 }
